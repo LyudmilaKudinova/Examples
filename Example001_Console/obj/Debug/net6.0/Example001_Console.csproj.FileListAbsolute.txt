@@ -1,0 +1,15 @@
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example001_Console\bin\Debug\net6.0\Example001_Console.exe
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example001_Console\bin\Debug\net6.0\Example001_Console.deps.json
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example001_Console\bin\Debug\net6.0\Example001_Console.runtimeconfig.json
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example001_Console\bin\Debug\net6.0\Example001_Console.dll
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example001_Console\bin\Debug\net6.0\Example001_Console.pdb
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example001_Console\obj\Debug\net6.0\Example001_Console.csproj.AssemblyReference.cache
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example001_Console\obj\Debug\net6.0\Example001_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example001_Console\obj\Debug\net6.0\Example001_Console.AssemblyInfoInputs.cache
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example001_Console\obj\Debug\net6.0\Example001_Console.AssemblyInfo.cs
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example001_Console\obj\Debug\net6.0\Example001_Console.csproj.CoreCompileInputs.cache
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example001_Console\obj\Debug\net6.0\Example001_Console.dll
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example001_Console\obj\Debug\net6.0\refint\Example001_Console.dll
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example001_Console\obj\Debug\net6.0\Example001_Console.pdb
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example001_Console\obj\Debug\net6.0\Example001_Console.genruntimeconfig.cache
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example001_Console\obj\Debug\net6.0\ref\Example001_Console.dll

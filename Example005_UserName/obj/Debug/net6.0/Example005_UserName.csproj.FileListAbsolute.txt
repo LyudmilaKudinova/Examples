@@ -1,0 +1,15 @@
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example005_UserName\bin\Debug\net6.0\Example005_UserName.exe
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example005_UserName\bin\Debug\net6.0\Example005_UserName.deps.json
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example005_UserName\bin\Debug\net6.0\Example005_UserName.runtimeconfig.json
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example005_UserName\bin\Debug\net6.0\Example005_UserName.dll
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example005_UserName\bin\Debug\net6.0\Example005_UserName.pdb
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example005_UserName\obj\Debug\net6.0\Example005_UserName.csproj.AssemblyReference.cache
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example005_UserName\obj\Debug\net6.0\Example005_UserName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example005_UserName\obj\Debug\net6.0\Example005_UserName.AssemblyInfoInputs.cache
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example005_UserName\obj\Debug\net6.0\Example005_UserName.AssemblyInfo.cs
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example005_UserName\obj\Debug\net6.0\Example005_UserName.csproj.CoreCompileInputs.cache
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example005_UserName\obj\Debug\net6.0\Example005_UserName.dll
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example005_UserName\obj\Debug\net6.0\refint\Example005_UserName.dll
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example005_UserName\obj\Debug\net6.0\Example005_UserName.pdb
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example005_UserName\obj\Debug\net6.0\Example005_UserName.genruntimeconfig.cache
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Example005_UserName\obj\Debug\net6.0\ref\Example005_UserName.dll

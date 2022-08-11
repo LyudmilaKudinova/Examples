@@ -1,0 +1,15 @@
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple009_Intro_Array\obj\Debug\net6.0\Exemple009_Intro_Array.csproj.AssemblyReference.cache
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple009_Intro_Array\obj\Debug\net6.0\Exemple009_Intro_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple009_Intro_Array\obj\Debug\net6.0\Exemple009_Intro_Array.AssemblyInfoInputs.cache
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple009_Intro_Array\obj\Debug\net6.0\Exemple009_Intro_Array.AssemblyInfo.cs
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple009_Intro_Array\obj\Debug\net6.0\Exemple009_Intro_Array.csproj.CoreCompileInputs.cache
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple009_Intro_Array\bin\Debug\net6.0\Exemple009_Intro_Array.exe
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple009_Intro_Array\bin\Debug\net6.0\Exemple009_Intro_Array.deps.json
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple009_Intro_Array\bin\Debug\net6.0\Exemple009_Intro_Array.runtimeconfig.json
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple009_Intro_Array\bin\Debug\net6.0\Exemple009_Intro_Array.dll
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple009_Intro_Array\bin\Debug\net6.0\Exemple009_Intro_Array.pdb
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple009_Intro_Array\obj\Debug\net6.0\Exemple009_Intro_Array.dll
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple009_Intro_Array\obj\Debug\net6.0\refint\Exemple009_Intro_Array.dll
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple009_Intro_Array\obj\Debug\net6.0\Exemple009_Intro_Array.pdb
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple009_Intro_Array\obj\Debug\net6.0\Exemple009_Intro_Array.genruntimeconfig.cache
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple009_Intro_Array\obj\Debug\net6.0\ref\Exemple009_Intro_Array.dll

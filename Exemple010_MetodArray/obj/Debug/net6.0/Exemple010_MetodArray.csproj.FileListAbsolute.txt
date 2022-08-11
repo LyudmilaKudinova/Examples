@@ -1,0 +1,15 @@
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple010_MetodArray\bin\Debug\net6.0\Exemple010_MetodArray.exe
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple010_MetodArray\bin\Debug\net6.0\Exemple010_MetodArray.deps.json
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple010_MetodArray\bin\Debug\net6.0\Exemple010_MetodArray.runtimeconfig.json
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple010_MetodArray\bin\Debug\net6.0\Exemple010_MetodArray.dll
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple010_MetodArray\bin\Debug\net6.0\Exemple010_MetodArray.pdb
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple010_MetodArray\obj\Debug\net6.0\Exemple010_MetodArray.csproj.AssemblyReference.cache
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple010_MetodArray\obj\Debug\net6.0\Exemple010_MetodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple010_MetodArray\obj\Debug\net6.0\Exemple010_MetodArray.AssemblyInfoInputs.cache
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple010_MetodArray\obj\Debug\net6.0\Exemple010_MetodArray.AssemblyInfo.cs
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple010_MetodArray\obj\Debug\net6.0\Exemple010_MetodArray.csproj.CoreCompileInputs.cache
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple010_MetodArray\obj\Debug\net6.0\Exemple010_MetodArray.dll
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple010_MetodArray\obj\Debug\net6.0\refint\Exemple010_MetodArray.dll
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple010_MetodArray\obj\Debug\net6.0\Exemple010_MetodArray.pdb
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple010_MetodArray\obj\Debug\net6.0\Exemple010_MetodArray.genruntimeconfig.cache
+C:\Users\Ludmila\Desktop\С# Лекции\Examples\Exemple010_MetodArray\obj\Debug\net6.0\ref\Exemple010_MetodArray.dll
